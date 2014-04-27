@@ -1,11 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Caching the Inverse of a Matrix through two main funcions:
+## Coursera R programming - Assignment 2
+## Cache the Inverse of a matrix through two main funcions:
 ## makeCacheMatrix and cacheSolve
 
 
-## Function makeCache creates a matrix object that can cache its inverse
+## Function makeCacheMatrix creates a matrix object that can cache its inverse
 ## implements get and set for the matrix value as its inverse (cached)
 ## using R function solve()
 
